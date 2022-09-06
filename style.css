@@ -1,0 +1,14 @@
+/* fonts  */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+/* common style  */
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+.btn-blue {
+  color: #3f87f5;
+}
