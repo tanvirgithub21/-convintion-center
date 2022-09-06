@@ -9,6 +9,6 @@
 .montserrat {
   font-family: "Montserrat", sans-serif;
 }
-.btn-blue {
-  color: #3f87f5;
+.blue-500 {
+  color: #3f87f5 !important;
 }
